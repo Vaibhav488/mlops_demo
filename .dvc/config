@@ -1,0 +1,2 @@
+['remote "newremote"']
+    url = s3://mlpos-demo1/data/
